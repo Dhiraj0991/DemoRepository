@@ -18,6 +18,7 @@ import org.testng.annotations.Test;
 public class ZainAssignment
 {
 	public static WebDriver driver;
+	public int i=10;
 	
 	
 	public static void dynamicWait(WebDriver driver,WebElement element,long timeout)
